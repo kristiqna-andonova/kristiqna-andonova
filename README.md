@@ -2,7 +2,6 @@
 <h3 align="center">I'm a Python Web Developer🐍</h3>
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY5NDQ3NDVmOTU2MzEwNGQzMDA2YjY3NmY4NmUyNjQ3NzYyOTkxNyZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristiqna-andonova&label=Profile%20views&color=0e75b6&style=flat" alt="kristiqna-andonova" /> </p>
 
 - 🔭 I’m currently working on **small projects**
