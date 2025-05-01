@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://dev.to/kristiqna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kristiqna" height="30" width="40" /></a>
 <a href="https://instagram.com/krisi_.dimitrova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krisi_.dimitrova" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/кристияна андонова-474051363/](https://www.linkedin.com/in/%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%8F%D0%BD%D0%B0-%D0%B0%D0%BD%D0%B4%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-474051363/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="кристияна андонова" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%8F%D0%BD%D0%B0-%D0%B0%D0%BD%D0%B4%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-474051363/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="кристияна андонова" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
